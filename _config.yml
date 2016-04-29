@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /plantes-of-the-universe
+exclude: ['README.md''_site']
